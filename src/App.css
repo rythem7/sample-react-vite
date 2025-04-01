@@ -14,5 +14,5 @@ body {
   align-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-color: var(--color-base-300);
+  background-color: var(--color-base-200);
 }
