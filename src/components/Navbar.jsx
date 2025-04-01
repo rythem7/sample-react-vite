@@ -1,6 +1,6 @@
 function NavBar() {
     return(
-        <div className="navbar bg-base-100 shadow-sm">
+        <header className="navbar bg-base-100 shadow-sm">
             <div className="navbar-start">
                 <div className="dropdown">
                 <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
@@ -29,7 +29,7 @@ function NavBar() {
                 </div>
                 </button>
             </div>
-        </div>
+        </header>
     )
 };
 
